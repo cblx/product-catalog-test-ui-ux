@@ -17,7 +17,7 @@ Criar e desenvolver a interface, e implementar o front de um sistema web com dua
 
 2. Página para exibição dos produtos cadastrados, que deverá mostrar apenas 5 itens por página (de uma grid/tabela).
 
-3. Como o cliente quer manter a sua identidade corporativa no sistema, usar como referência gráfica o arquivo Adobe XD da landing page Descontrolada®: [clique aqui para baixar](https://github.com/cblx/product-catalog-test-ui-ux/raw/main/descontrolada.xd). As fontes usadas no layout estão disponíveis no [Google Fonts](https://fonts.google.com/).
+3. Como o cliente quer manter a sua identidade corporativa no sistema, usar como referência gráfica o arquivo Adobe XD da landing page Descontrolada®: [clique aqui para baixar](https://github.com/cblx/product-catalog-test-ui-ux/raw/main/descontrolada.xd). Opção em PNG: [clique aqui](https://github.com/cblx/product-catalog-test-ui-ux/raw/main/des-home.png). As fontes usadas no layout estão disponíveis no [Google Fonts](https://fonts.google.com/).
 
 O sistema também deve possuir um menu que permita a navegação entre as duas páginas.
 
