@@ -34,7 +34,7 @@ Serão avaliados os seguintes aspectos:
 - Proeficiência nas tecnologias de frontend (Vue ou Angular);
 - Conhecimento de TypeScript.
 
-## Informações Adicionais
+## Informações Adicionais 
 
 Por favor, encaminhe o link do teste resolvido em um repositório GitHub para o e-mail [code-challenge@codeblox.com.br](mailto:code-challenge@codeblox.com.br).
 
